@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일\NOV">
+      <UniqueIdentifier>{535f06cc-fd80-4d41-903a-de84430443bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\OV">
+      <UniqueIdentifier>{2bcca672-5e03-4b5d-9eb5-c0c4ceebb5a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OV\doha_saliency_cut.h">
+      <Filter>헤더 파일\OV</Filter>
+    </ClInclude>
+    <ClInclude Include="OV\FDM.h">
+      <Filter>헤더 파일\OV</Filter>
+    </ClInclude>
+    <ClInclude Include="OV\FFT.h">
+      <Filter>헤더 파일\OV</Filter>
+    </ClInclude>
+    <ClInclude Include="OV\resize.h">
+      <Filter>헤더 파일\OV</Filter>
+    </ClInclude>
+    <ClInclude Include="OV\saliency_cut.h">
+      <Filter>헤더 파일\OV</Filter>
+    </ClInclude>
+    <ClInclude Include="OV\settings.h">
+      <Filter>헤더 파일\OV</Filter>
+    </ClInclude>
+    <ClInclude Include="OV\SLIC.h">
+      <Filter>헤더 파일\OV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\convolve.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\disjoint-set.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\FDM.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\filter.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\image.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\imconv.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\imutil.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\LBP.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\LMfilter.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\misc.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\pnmfile.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\Segmentation.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\segment-graph.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\segment-image.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="OV\OVsvm.h">
+      <Filter>헤더 파일\OV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\NOVSVM.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="PDM.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="OV\OVRendering.h">
+      <Filter>헤더 파일\OV</Filter>
+    </ClInclude>
+    <ClInclude Include="NOV\NOVRendering.h">
+      <Filter>헤더 파일\NOV</Filter>
+    </ClInclude>
+    <ClInclude Include="DFT.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SVM.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OV\SLIC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
