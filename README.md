@@ -114,18 +114,6 @@
 
 ![FinalPDM](imgs/FinalPDM.JPG)
 
-<br/>
-
-
-
-- ### Result
-
-![s13.jpg](imgs/s13.jpg)
-
-![d13.jpg](imgs/d13.jpg)
-
-![r13.jpg](imgs/r13.jpg)
-
 
 
 <br/>
