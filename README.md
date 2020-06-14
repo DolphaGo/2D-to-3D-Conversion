@@ -1,6 +1,6 @@
 # 2D-to-3D-Conversion
 
-> ## 요약
+> ## Summary
 
 * **SVM(Support Vector Machine)을 활용한 OV(Object View), NOV(Non-Object View)분류**
 
@@ -30,7 +30,7 @@
 
 
 
-#### DFT
+* ### DFT
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-#### SVM
+* ### SVM
 
 ![SVM](imgs/SVM.JPG)
 
@@ -50,7 +50,7 @@
 
 
 
-### Saliency Map
+* ### Saliency Map
 
 
 
@@ -60,7 +60,9 @@
 
 <br/>
 
-### Object Map
+
+
+* ### Object Map
 
 ![ObjectMap](imgs/ObjectMap.JPG)
 
@@ -68,7 +70,9 @@
 
 <br/>
 
-#### GrabCut
+
+
+- ### GrabCut
 
 ![GrabCut](imgs/GrabCut.JPG)
 
@@ -76,13 +80,17 @@
 
 <br/>
 
-#### OV DepthEstimation
+
+
+- ### OV DepthEstimation
 
 ![OV DepthEstimation](imgs/OVDepthEstimation.JPG)
 
 <br/>
 
-#### Initial PDM
+
+
+- ### Initial PDM
 
 ![InitialPDM](imgs/InitialPDM.JPG)
 
@@ -90,7 +98,9 @@
 
 <br/>
 
-#### FDM
+
+
+- ### FDM
 
 ![FDM](imgs/FDM.JPG)
 
@@ -98,13 +108,17 @@
 
 <br/>
 
-#### Final PDM
+
+
+- ### Final PDM
 
 ![FinalPDM](imgs/FinalPDM.JPG)
 
 <br/>
 
-#### Result
+
+
+- ### Result
 
 ![s13.jpg](imgs/s13.jpg)
 
@@ -126,19 +140,23 @@
 
 <br/>
 
-#### Image Segmentation
+
+
+- ### Image Segmentation
 
 ![ImageSeg](imgs/ImageSeg.JPG)
 
 <br/>
 
-#### Get Feature
+
+
+- ### Get Feature
 
 ![GetFeature1](imgs/GetFeature1.JPG)
 
 <br/>
 
-#### Multiclass SVM
+- ### Multiclass SVM
 
 ![MulticlassSVM](imgs/MulticlassSVM.JPG)
 
@@ -152,7 +170,9 @@
 
 <br/>
 
-#### Depth Estimation
+
+
+- ### Depth Estimation
 
 ![NOVDepthEstimation](imgs/NOVDepthEstimation.JPG)
 
@@ -168,7 +188,7 @@
 
 ![Rendering1](imgs/Rendering1.JPG)
 
-#### Result
+- ### Result
 
 ![RenderResult](imgs/RenderResult.JPG)
 
@@ -202,6 +222,6 @@ School of Information Science and Engineering, Central South University, Changsh
 
 > ## 팀원
 
-* 김도하
-* 전준영
-* 최욱진
+* **김도하**
+* **전준영**
+* **최욱진**
