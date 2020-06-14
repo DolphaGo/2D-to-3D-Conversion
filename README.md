@@ -12,23 +12,27 @@
 
 
 
+<br/>
+
 ![Render.jpg](imgs/Render.jpg)
 
 
 
-
+<br/>
 
 > ## 알고리즘 소개
 
-![알고리즘 소개](imgs/알고리즘 소개.JPG)
+![알고리즘 소개](imgs/Algorithm.JPG)
 
-
+<br/>
 
 > ### 프레임 자동 분류
 
 
 
 ﻿#### DFT
+
+
 
 ![DFT](imgs/DFT.JPG)
 
@@ -40,7 +44,7 @@
 
 ![SVM2](imgs/SVM2.JPG)
 
-
+<br/>
 
 > ## OV(Object-View) Processing
 
@@ -54,13 +58,15 @@
 
 
 
+<br/>
+
 ### Object Map
 
 ![ObjectMap](imgs/ObjectMap.JPG)
 
 ![ObjectMap2](imgs/ObjectMap2.JPG)
 
-
+<br/>
 
 #### GrabCut
 
@@ -68,11 +74,13 @@
 
 
 
+<br/>
+
 #### OV DepthEstimation
 
-![OV DepthEstimation](imgs/OV DepthEstimation.JPG)
+![OV DepthEstimation](imgs/OVDepthEstimation.JPG)
 
-
+<br/>
 
 #### Initial PDM
 
@@ -80,7 +88,7 @@
 
 
 
-
+<br/>
 
 #### FDM
 
@@ -88,15 +96,15 @@
 
 
 
+<br/>
+
 #### Final PDM
 
 ![FinalPDM](imgs/FinalPDM.JPG)
 
-
+<br/>
 
 #### Result
-
-
 
 ![s13.jpg](imgs/s13.jpg)
 
@@ -106,7 +114,9 @@
 
 
 
+<br/>
 
+<br/>
 
 > ## NOV(Non-Object-View) Processing
 
@@ -114,19 +124,19 @@
 
 ![NOV_algo](imgs/NOV_algo.JPG)
 
-
+<br/>
 
 #### Image Segmentation
 
 ![ImageSeg](imgs/ImageSeg.JPG)
 
-
+<br/>
 
 #### Get Feature
 
 ![GetFeature1](imgs/GetFeature1.JPG)
 
-
+<br/>
 
 #### Multiclass SVM
 
@@ -140,7 +150,7 @@
 
 
 
-
+<br/>
 
 #### Depth Estimation
 
@@ -150,7 +160,7 @@
 
 
 
-
+<br/>
 
 > ## Rendering
 
@@ -164,7 +174,7 @@
 
 
 
-
+<br/>
 
 > ## 참고 논문
 
@@ -188,7 +198,7 @@ School of Information Science and Engineering, Central South University, Changsh
 
 ​    
 
-
+<br/>
 
 > ## 팀원
 
