@@ -14,9 +14,6 @@
 
 <br/>
 
-![Render.jpg](imgs/Render.jpg)
-
-
 
 <br/>
 
