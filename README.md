@@ -1,5 +1,11 @@
 # 2D-to-3D-Conversion
 
+> 프로젝트 기간
+
+2018.01~2018.06
+
+
+
 > ## Summary
 
 * **SVM(Support Vector Machine)을 활용한 OV(Object View), NOV(Non-Object View)분류**
